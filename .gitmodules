@@ -1,0 +1,6 @@
+[submodule "GTFriender-Web-Server"]
+	path = GTFriender-Web-Server
+	url = https://github.com/fenichelar/GTFriender-Web-Server
+[submodule "GTFriender-Web-Interface"]
+	path = GTFriender-Web-Interface
+	url = https://github.com/fenichelar/GTFriender-Web-Interface
